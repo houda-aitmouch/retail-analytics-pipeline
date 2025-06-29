@@ -1,0 +1,6 @@
+InvoiceID,CustomerID,Product,Quantity,Price
+INV001,C001,Apples,3,1.2
+INV001,C001,Bananas,2,0.8
+INV002,C002,Oranges,5,1.5
+INV003,C003,Bread,1,2.0
+INV004,C002,Milk,2,1.0
